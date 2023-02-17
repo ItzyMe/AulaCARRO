@@ -59,6 +59,7 @@ function myKeyDown(e)
 function up()
 {
 	//Definir função para mover o carro para cima
+	//aqui dentro é preciso criar bloco if para movimentar o carro, verifique a aula 85 
 }
 
 function down()
